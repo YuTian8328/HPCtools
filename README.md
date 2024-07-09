@@ -12,9 +12,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 This project currently only supports Linux-based systems, and requires the following software to be installed:
 
--   Python 3.10+
--   OpenSSH
--   Rsync
+- Python 3.10+
+- OpenSSH
+- Rsync
 
 OpenSSH and Rsync are typically installed by default on most Linux distributions, to verify, run the following commands:
 
